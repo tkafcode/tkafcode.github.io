@@ -80,6 +80,14 @@ But now to publishing the site on Github.
 
 After a short check on how the site looks in the browser and correcting a lot of typos it was time to get pushing to `Github`. 
 
+{% highlight bash %}
+git add --all
+git commit "Site first commit."
+git push -u origin main
+{% endhighlight %}
+
+There. This is it then.
+
 All that's left, says Jekyll, is to include the necessary front matter. Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
