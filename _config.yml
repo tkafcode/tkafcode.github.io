@@ -28,6 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tkafcode
 
 # Build settings
+timezone: Europe/Helsinki
 theme: minima
 plugins:
   - jekyll-feed

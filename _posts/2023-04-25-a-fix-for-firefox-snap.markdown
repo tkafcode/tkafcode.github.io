@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A fix for Firefox Snap on Ubuntu 22.04LTS"
-date:   2023-04-25 05:00:10 -0500
+date:   2023-04-25
 categories: jekyll update
 ---
 
@@ -46,6 +46,6 @@ The script should explain itself. It starts with disabling the broken Snap and r
 
 You can download the script here and run it after chmod +x as is. 
 
-[Github script] (https://github.com/tkafcode/Ubuntu22.04-Firefox-Snap-Work-Around)
+[Script on Github](https://github.com/tkafcode/Ubuntu22.04-Firefox-Snap-Work-Around)
 
 If you would like another version of Firefox, just follow the instructions in the script. Likely you'll have to change the version eventually, as the versions in the repo update frequently.
